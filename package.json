@@ -1,0 +1,31 @@
+{
+  "name": "browl-plugin-settings-config",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Alexey Kucherenko",
+  "main": "index.js",
+  "license": "MIT",
+  "homepage": "https://github.com/killmenot/browl-plugin-settings-config#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/killmenot/browl-plugin-settings-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/killmenot/browl-plugin-settings-config/issues"
+  },
+  "scripts": {
+    "lint": "eslint lib index.js"
+  },
+  "pre-commit": [
+    "lint"
+  ],
+  "dependencies": {
+    "browl-util": "killmenot/browl-util",
+    "debug": "^4.0.1",
+    "settings-config": "^1.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.9.0",
+    "pre-commit": "^1.2.2"
+  }
+}
