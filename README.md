@@ -1,6 +1,6 @@
 # browl-plugin-settings-config
 
-[![Build Status](https://travis-ci.org/killmenot/browl-plugin-settings-config.svg?branch=master)](https://travis-ci.org/killmenot/browl-plugin-settings-config) [![Coverage Status](https://coveralls.io/repos/github/killmenot/browl-plugin-yaml/badge.svg?branch=master)](https://coveralls.io/github/killmenot/browl-plugin-settings-config?branch=master) [![Dependency Status](https://david-dm.org/killmenot/browl-plugin-settings-config.svg)](hhttps://david-dm.org/killmenot/browl-plugin-settings-config) [![npm version](https://img.shields.io/npm/v/browl-plugin-settings-config.svg)](https://www.npmjs.com/package/browl-plugin-settings-config)
+[![Build Status](https://travis-ci.org/killmenot/browl-plugin-settings-config.svg?branch=master)](https://travis-ci.org/killmenot/browl-plugin-settings-config) [![Coverage Status](https://coveralls.io/repos/github/killmenot/browl-plugin-settings-config/badge.svg?branch=master)](https://coveralls.io/github/killmenot/browl-plugin-settings-config?branch=master) [![Dependency Status](https://david-dm.org/killmenot/browl-plugin-settings-config.svg)](https://david-dm.org/killmenot/browl-plugin-settings-config) [![npm version](https://img.shields.io/npm/v/browl-plugin-settings-config.svg)](https://www.npmjs.com/package/browl-plugin-settings-config)
 
 Browl plugin that loads application's configuration data created by [settings-config](https://github.com/killmenot/node-settings-config)
 
@@ -31,9 +31,12 @@ path = /path/to/webapp/develop/config
 direction = backward
 ```
 
+
 ## License
 
     The MIT License (MIT)
+
+    Copyright (c) Alexey Kucherenko
 
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal
